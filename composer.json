@@ -10,8 +10,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "softcreatr/jsonpath": "^0.8",
-        "justinrainbow/json-schema": "^5.0"
+        "justinrainbow/json-schema": "6.0.0-beta",
+        "softcreatr/jsonpath": "^0.8"
     },
     "conflict": {
         "phpunit/phpunit": "<8.0 || >= 12.0"
